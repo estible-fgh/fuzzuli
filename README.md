@@ -66,7 +66,7 @@ Mathematical equation is like this.
 ![](img/regular.png)
 
 
-**shuffle method** just shuffle subdomains and removes dots, vowel letters both dots and vowel letters. It does not itarate over each char in domain string.
+**shuffle method** just shuffle subdomains and removes dots, vowel letters both dots and vowel letters. It does not iterate over each char in domain string.
 
 
 **fuzzuli** consists of two main parts. One of them creates a wordlist dynamically. The other sends the HTTP request and checks the response for backup/sensitive file.
